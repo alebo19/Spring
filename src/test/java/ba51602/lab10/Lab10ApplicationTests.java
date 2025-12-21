@@ -1,10 +1,10 @@
-package pl.ba51602.lab9;
+package ba51602.lab10;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Lab9ApplicationTests {
+class Lab10ApplicationTests {
 
 	@Test
 	void contextLoads() {
